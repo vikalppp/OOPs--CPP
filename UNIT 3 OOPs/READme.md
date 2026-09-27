@@ -61,8 +61,3 @@ program.exe
 15. **Payment System** — Models a real-world abstract `Payment` interface with `CardPayment`, `UpiPayment`, and `NetBankingPayment` implementations processed polymorphically.
 16. **Payroll Mini-Project** — Extends the abstract `Employee` class with `PermanentEmployee` and `ContractEmployee` to compute and print payslips using run-time polymorphism.
 
-## Notes
-
-* All programs are written in standard C++17 and compile without warnings using `g++ -std=c++17`.
-* Each `.cpp` file contains inline comments explaining key statements and design decisions.
-* Add screenshots of your compiled output (terminal or IDE) to a `screenshots/` folder if your submission requires visual proof of execution, and reference them here, e.g. `![Program 1 Output](screenshots/FunctionOverloading_output.png)`.
