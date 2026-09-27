@@ -1,2 +1,0 @@
-# OOPs--CPP
-CIE Activity
