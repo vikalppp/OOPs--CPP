@@ -1,3 +1,10 @@
+Name-Vikalp Jangale 
+Class-SY-B (AI&DS)
+Roll no-AD2223 
+ZPRN-125UAD1198
+
+Unit : 1 List of Programs : Class and Object Constructor and Destructor Inline Member function and Friend Function Static Member Brief Description :
+
 
 ## How to Compile and Run
 
