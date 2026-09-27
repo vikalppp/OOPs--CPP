@@ -58,8 +58,3 @@ program.exe
 15. **Mini-Project: Vehicle Rental** — Combines inheritance, virtual functions, and overriding to build a small rental-rate calculator for `Car` and `Bike` objects.
 16. **Mini-Project: Employee Payroll** — Uses an abstract `Employee` base class with `PermanentEmployee` and `ContractEmployee` derived classes to calculate salaries polymorphically.
 
-## Notes
-
-- All programs are written in standard C++17 and compile without warnings using `g++ -std=c++17`.
-- Each `.cpp` file contains inline comments explaining key statements and design decisions.
-- Add screenshots of your compiled output (terminal or IDE) to a `screenshots/` folder if your submission requires visual proof of execution, and reference them here, e.g. `![Program 1 Output](screenshots/01_output.png)`.
